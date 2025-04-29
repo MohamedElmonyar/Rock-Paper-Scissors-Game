@@ -57,4 +57,3 @@ This is a classic game where the player competes against the computer. In each r
 4. Results for each round will be displayed, and the overall winner will be announced at the end.
 5. After the game ends, you can choose whether to play again or exit the game.
 
-## Sample Output:
